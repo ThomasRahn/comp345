@@ -33,6 +33,8 @@ bld/
 
 DnDProject/DnDProject/[Dd]ebug/
 DnDProject/DnDProject/[Ss]aves/
+!DnDProject/SDL2-2.0.0/
+!DnDProject/[Dd]ebug/
 
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
 !packages/*/build/
