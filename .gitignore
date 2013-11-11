@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+DnDProject/DnDProject/Debug/
+DnDProject/DnDProject.opensdf
+DnDProject/DnDProject/saves/
+DnDProject/DnDProject.sdf
