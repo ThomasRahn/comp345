@@ -1,0 +1,42 @@
+﻿Build started 11/11/2013 12:57:13 PM.
+     1>Project "C:\Users\Thomas\Desktop\C++programs\GitHub\DnDProject\DnDProject\DnDProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"..\SDL2-2.0.0\include" /I..\tinyxml /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CharacterEditor.cpp GameEngineMap.cpp
+         GameEngineMap.cpp
+         CharacterEditor.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Thomas\Desktop\C++programs\GitHub\DnDProject\Debug\DnDProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:"..\SDL2-2.0.0\lib\x86" SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Thomas\Desktop\C++programs\GitHub\DnDProject\Debug\DnDProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Thomas\Desktop\C++programs\GitHub\DnDProject\Debug\DnDProject.lib" /MACHINE:X86 Debug\tinyxml2.obj
+         Debug\ArmourItem.obj
+         Debug\BeltItem.obj
+         Debug\BootsItem.obj
+         Debug\Character.obj
+         Debug\CharacterEditor.obj
+         Debug\Container.obj
+         Debug\Dice.obj
+         Debug\Entity.obj
+         Debug\Game.obj
+         Debug\GameEngine.obj
+         Debug\GameEngineMap.obj
+         Debug\GameObject.obj
+         Debug\HelmetItem.obj
+         Debug\InputHandler.obj
+         Debug\Item.obj
+         Debug\LoaderParameters.obj
+         Debug\MainMenu.obj
+         Debug\Map.obj
+         Debug\MapEditor.obj
+         Debug\MapView.obj
+         Debug\Monster.obj
+         Debug\RingItem.obj
+         Debug\SDL_Utilities.obj
+         Debug\ShieldItem.obj
+         Debug\Source.obj
+         Debug\TextureManager.obj
+         Debug\WeaponItem.obj
+         DnDProject.vcxproj -> C:\Users\Thomas\Desktop\C++programs\GitHub\DnDProject\Debug\DnDProject.exe
+     1>Done Building Project "C:\Users\Thomas\Desktop\C++programs\GitHub\DnDProject\DnDProject\DnDProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.59
